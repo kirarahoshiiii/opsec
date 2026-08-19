@@ -5,9 +5,9 @@
 ## install
 
 ### archlinux (endeavouros, cachyos, manjaro)
-``sh
+```sh
 sudo figure it out
-``
+```
 
 star this now, mainly bc this readme was super professional and helpful
 
